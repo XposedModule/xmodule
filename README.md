@@ -7,6 +7,8 @@
  
  apk_ver: 插件版本
  
+ apk_dec: 插件概述
+ 
  apk_author: 插件作者
  
  apk_source: 是否开源（不开源填 否；开源填写开源地址）
